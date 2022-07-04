@@ -1,0 +1,111 @@
+<xml version="1.0"/>
+<Commandes>
+    <Commande>
+        <CinCl></CinCl>
+        <Date></Date>
+        <Details>
+            <Detail>
+                <Produits>
+                    <Produit>
+                        <Nom></Nom>
+                        <Prix></Prix>
+                        <Quantite></Quantite>
+                        <Img></Img>
+                        <Categorie></Categorie>
+                        <Description></Description>
+                    </Produit>
+                </Produits>
+            </Detail>
+        </Details>
+    </Commande>
+</Commandes>
+
+=>
+
+<Commandes>
+        <Commande>
+            <Montant></Montant>
+            <CinCl></CinCl>
+            <Date></Date>
+            <Details>
+                <Detail>
+                    <Produits>
+                        <Produit>
+                            <Nom></Nom>
+                            <Prix></Prix>
+                            <Quantite></Quantite>
+                            <Img></Img>
+                            <Categorie></Categorie>
+                            <Description></Description>
+                        </Produit>
+                    </Produits>
+                </Detail>
+            </Details>
+    </Commande>
+</Commandes>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <Produits><Produit><Categorie></categorie></Produit> </Produits>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ =>
+ <Produits>
+        <Produit>
+            <Nom></Nom>
+            <Prix></Prix>
+            <Quantite></Quantite>
+            <Img></Img>
+            <Categorie></Categorie>
+            <Description></Description>
+        </Produit>
+</Produits>
